@@ -4,7 +4,6 @@
 An end-to-end **Retrieval-Augmented Generation (RAG)** application designed to automate the creation of personalized cold emails for B2B sales. This tool helps software and consulting companies streamline their outreach by scraping job descriptions, extracting key skills, and matching them with relevant service portfolios to draft highly targeted emails.
 
 ## 📸 Application Screenshot
-*(Replace the link below with the actual path to your screenshot)*
 ![App Screenshot](./screenshot.png)
 
 ## 🚀 Features & Workflow
