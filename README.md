@@ -14,7 +14,7 @@ An end-to-end **Retrieval-Augmented Generation (RAG)** application designed to a
 
 ## 🛠️ Tech Stack
 * **Architecture**: **Retrieval-Augmented Generation (RAG)** to ground LLM responses in specific, relevant company data.
-* **LLM**: Llama 3.1 (70B) via **Groq API** for ultra-fast, high-speed inference.
+* **LLM**: Llama 3.3 (70B) via **Groq API** for ultra-fast, high-speed inference.
 * **Vector Database**: **ChromaDB** for semantic search and storing company portfolio/case study data.
 * **Orchestration**: **LangChain** for chaining AI prompts, scraping, and database queries.
 * **Frontend/UI**: **Streamlit** for a clean, user-friendly, and interactive web interface.
