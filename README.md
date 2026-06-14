@@ -1,0 +1,1 @@
+# Cold-Email-Generator-RAG-based-project
